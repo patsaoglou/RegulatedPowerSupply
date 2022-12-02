@@ -23,7 +23,7 @@ Voltage Doubler video: https://www.youtube.com/watch?v=xjfeVQ6uwTY&t=234s
 
 # Measurements
 Noise in the Regulated-Filtered rail - Unloaded:
-Less than 10mVpk-pk noise at 20us time Division(20 MHZ Analog Osciloscope)
+Less than 10mVpk-pk noise at 20us time Division(20 MHZ Analog Oscilloscope)
 ![Regulated Unloaded-Filtered Noise](https://user-images.githubusercontent.com/93339707/205380697-64e5b459-90c5-4f99-88ad-d5b11598d511.jpg)
 
 Noise in the Unregulated-Unfiltered rail - Unloaded:
