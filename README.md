@@ -1,4 +1,4 @@
-# RegulatedPowerSupply
+# +/-15V Regulated Power Supply
 In this repository i share the schematic, measurements and prototype board photos of the simple dual rail regulated/unregulated output power supply i designed using Altium Designer. 
 The board uses two diode voltage doubler circuit to rectify the ac sinewave coming from a 20Vpk-pk transformer i salvaged from an old ups, in order to take advantage of the two ac peaks to create two indepentant full peak voltage rails. The two voltage rails get filtered from 2 power 10000UF 35V Capacitors which i opted in case i wanted to supply a high power circuit directly with unregulated voltage with the disadvantage of voltage flactuations caused by loading the circuit.
 
