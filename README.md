@@ -12,7 +12,7 @@ This project was really fun also because of the prototype board which will becom
 If you have any questions or you would like to recommend any changes to the design feel free to contact me. I would highly appreciate it!
 
 PCB layout live:
-[https://www.youtube.com/@pantelisEVs](https://www.youtube.com/watch?v=I7pFWdqES8I&t)
+https://www.youtube.com/watch?v=I7pFWdqES8I&t
 
 Voltage Doubler video: https://www.youtube.com/watch?v=xjfeVQ6uwTY&t=234s
 
