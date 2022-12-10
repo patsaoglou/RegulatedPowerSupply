@@ -16,9 +16,12 @@ https://www.youtube.com/@pantelisEVs
 
 Voltage Doubler video: https://www.youtube.com/watch?v=xjfeVQ6uwTY&t=234s
 
+# Schematic
+[15V Regulated Power Supply - Schematic.pdf](https://github.com/patsaoglou/RegulatedPowerSupply/files/10200559/15V.Regulated.Power.Supply.-.Schematic.pdf)
+# PCB
+![PCB](https://user-images.githubusercontent.com/93339707/206867050-828d168a-d613-4cf2-a7be-3302fa328932.PNG)
+
 # Prototype Board
-![Prototype Front](https://user-images.githubusercontent.com/93339707/205380614-cfa87be2-d736-42ff-bf09-846073a82f6c.jpg)
-![Prototype Back](https://user-images.githubusercontent.com/93339707/205380618-36da5fdb-f112-412a-9f1c-47b36f82a095.jpg)
 ![Angled](https://user-images.githubusercontent.com/93339707/205380627-ada68a13-40e7-4769-9c57-3eb6e3ad0a54.jpg)
 
 # Measurements
