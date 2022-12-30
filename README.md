@@ -21,7 +21,7 @@ Voltage Doubler video:
 https://www.youtube.com/watch?v=xjfeVQ6uwTY&t=234s
 
 # Schematic
-![Schematic img](https://user-images.githubusercontent.com/93339707/206867105-06839970-b764-4752-82f9-3ff9dd447ecd.PNG)
+![Schematic Img](https://user-images.githubusercontent.com/93339707/210030845-90ff6a7a-e69c-4319-8153-c5faffaedb36.PNG)
 
 # PCB
 ![PCB](https://user-images.githubusercontent.com/93339707/206906663-fa0a0da7-1aa8-4e94-b23c-c645e5d6191a.PNG)
