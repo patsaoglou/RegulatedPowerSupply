@@ -12,32 +12,36 @@ This project was really fun also because of the prototype board which will becom
 If you have any questions or you would like to recommend any changes to the design feel free to contact me. I would highly appreciate it!
 
 Prototype Build Video:
-https://www.youtube.com/watch?v=nPICWO84uSs&t=528s
+https://www.youtube.com/watch?v=nPICWO84uSs
 
 PCB layout live:
-https://www.youtube.com/watch?v=I7pFWdqES8I&t
+https://www.youtube.com/watch?v=I7pFWdqES8I
 
 Voltage Doubler video:
-https://www.youtube.com/watch?v=xjfeVQ6uwTY&t=234s
+https://www.youtube.com/watch?v=xjfeVQ6uwTY
 
 # Schematic
-![Schematic Img](https://user-images.githubusercontent.com/93339707/210030845-90ff6a7a-e69c-4319-8153-c5faffaedb36.PNG)
-
-# PCB
-![PCB](https://user-images.githubusercontent.com/93339707/206906663-fa0a0da7-1aa8-4e94-b23c-c645e5d6191a.PNG)
+![15V Regulated Power Supply - Schematic](https://user-images.githubusercontent.com/93339707/218340856-096448a3-d286-4cb4-b37c-ab1656805967.PNG)
 
 # Prototype Board
-![Angled](https://user-images.githubusercontent.com/93339707/205380627-ada68a13-40e7-4769-9c57-3eb6e3ad0a54.jpg)
+![Prototype Front](https://user-images.githubusercontent.com/93339707/218340942-cceb875e-bad2-4532-9507-f401b9033664.jpg)
+
+# PCB Design
+![PCB](https://user-images.githubusercontent.com/93339707/218340864-56c4a273-85a9-41d4-8f99-6fb1d680ae68.PNG)
+
+# PCB Produced by JLCPCB
+![20230213_000428](https://user-images.githubusercontent.com/93339707/218340900-825523fe-031f-4001-bcb7-912c3006a957.jpg)
+
+![20230213_000732](https://user-images.githubusercontent.com/93339707/218340907-0a84c59c-813a-45ab-98a0-0d41187fff4f.jpg)
 
 # Measurements
 Noise in the Regulated-Filtered rail - Unloaded:
 Less than 10mVpk-pk noise at 20us time Division(20 MHZ Analog Oscilloscope)
-![Regulated Unloaded-Filtered Noise](https://user-images.githubusercontent.com/93339707/205380697-64e5b459-90c5-4f99-88ad-d5b11598d511.jpg)
+![2W Loaded Noise Stable Regulated Voltage](https://user-images.githubusercontent.com/93339707/218340971-cebc6170-efdc-43b3-91ce-a919bbf33100.jpg)
 
 Noise in the Unregulated-Unfiltered rail - Unloaded:
 Bigger than previous measurements with same osciloscope settings
-![Unregulated-No HF Output Decoupling Noise](https://user-images.githubusercontent.com/93339707/205381326-b04e22c4-0c26-4b9f-bc8c-8b3832f5821c.jpg)
+![Unregulated-No HF Output Decoupling Noise](https://user-images.githubusercontent.com/93339707/218340988-1892ef18-27e7-418b-ac9b-84ca5ea2c5ef.jpg)
 
 2W Load Noise and Regulated Voltage stable:
-![2W Loaded Noise Stable Regulated Voltage](https://user-images.githubusercontent.com/93339707/205381458-67b8481f-7a17-4c6d-8eb0-d87a37ccd6ea.jpg)
-
+![Regulated Unloaded-Filtered Noise](https://user-images.githubusercontent.com/93339707/218340995-b2b23ef9-e578-4667-a451-ffc96c3bc786.jpg)
