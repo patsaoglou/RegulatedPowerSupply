@@ -32,6 +32,7 @@ https://www.youtube.com/watch?v=xjfeVQ6uwTY
 # PCB Produced by JLCPCB
 ![20230213_000428](https://user-images.githubusercontent.com/93339707/218340900-825523fe-031f-4001-bcb7-912c3006a957.jpg)
 
+Hand Soldered the components! The final result:
 ![20230213_000732](https://user-images.githubusercontent.com/93339707/218340907-0a84c59c-813a-45ab-98a0-0d41187fff4f.jpg)
 
 # Measurements
