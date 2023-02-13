@@ -11,6 +11,9 @@ Regulated supplies are typical to voltage sensetive circuits like voltage gain s
 This project was really fun also because of the prototype board which will become handy for future,mainly audio projects that require dual voltage rails.
 If you have any questions or you would like to recommend any changes to the design feel free to contact me. I would highly appreciate it!
 
+PCB Overview Video:
+https://www.youtube.com/watch?v=WUtO4Avyffg&t=2s
+
 Prototype Build Video:
 https://www.youtube.com/watch?v=nPICWO84uSs
 
